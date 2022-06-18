@@ -6,6 +6,9 @@
   "scripts": {
     "start": "nodemon src/server.js"
   },
+  "engines": {
+    "node": "17.6.0"
+  },
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
